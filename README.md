@@ -20,4 +20,4 @@ npm start
 - Bar Chart which displays graphcial comparison of dfi and dash market capitalizations
 
 ## Deployment
-Deploy on Netlify! Take a look here: [Cake Masternode AUM Liam](https://cakedefi-masternode-aum-liam.netlify.app/)
+Deployed on Netlify! Take a look here: [Cake Masternode AUM Liam](https://cakedefi-masternode-aum-liam.netlify.app/)

@@ -8,7 +8,7 @@ In order to start the project you need to install the dependencies and run the c
 npm install
 npm start
 ```
-## Libaries and APIs used
+## Libraries and APIs used
 - [React](https://react-bootstrap.github.io/getting-started/introduction)
 - [Material UI](https://mui.com/material-ui/getting-started/overview/)
 - [Chart Js](https://www.chartjs.org/docs/latest/charts/polar.html)

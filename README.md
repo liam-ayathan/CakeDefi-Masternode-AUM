@@ -17,7 +17,7 @@ npm start
 ## Site Overview and Components
 - AUM Cards to display current price and AUM values of dfi, dash and eth in usd / btc / euros
 - Pie Chart which displays graphical comparison of AUM values
-- Bar Chart which displays graphcial comparison of dfi and dash market capitalizations
+- Bar Chart which displays graphical comparison of dfi and dash market capitalizations
 
 ## Deployment
 Deployed on Netlify! Take a look here: [Cake Masternode AUM Liam](https://cakedefi-masternode-aum-liam.netlify.app/). The website is mobile responsive!
